@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: i2klrv290-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/i2klrv290-python
